@@ -1,0 +1,10 @@
+﻿Log "hello this is my checkout script"
+
+Log "changes to my script"
+
+Log "more changes?"
+
+
+TypeText << http://172.16.41.37:9081/loginSps?token>>
+
+--change from GIT
